@@ -9,7 +9,7 @@ In India, the cost of a new Myoelectric/Bionic prosthetic arm can range from 1 l
 - **User-Friendly**: Includes wireless operation features and a companion app for easy monitoring and control.
 
 ## Structure Image
-(![arm structure](https://github.com/user-attachments/assets/f8cd8301-ca74-4517-8fc6-596af09e2445)
+![arm structure](https://github.com/user-attachments/assets/f8cd8301-ca74-4517-8fc6-596af09e2445)
 
 
 _Description_: The structure image illustrates the overall design and layout of the prosthetic arm, including the placement of key components such as the EMG sensors, servo motors, and battery.
