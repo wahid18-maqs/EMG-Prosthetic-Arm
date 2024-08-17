@@ -15,8 +15,8 @@ In India, the cost of a new Myoelectric/Bionic prosthetic arm can range from 1 l
 _Description_: The structure image illustrates the overall design and layout of the prosthetic arm, including the placement of key components such as the EMG sensors, servo motors, and battery.
 
 ## Circuit Diagram
-![Circuit Diagram](![circuit diagram](https://github.com/user-attachments/assets/a986970d-b140-4471-ad04-15d2bf3931f2)
-)
+![Circuit Diagram](https://github.com/user-attachments/assets/a986970d-b140-4471-ad04-15d2bf3931f2)
+
 
 _Description_: The circuit diagram provides a detailed view of the electrical connections and components used in the prosthetic arm, highlighting the integration of EMG sensors, servo motors, and the control system.
 
